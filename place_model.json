@@ -1,9 +1,9 @@
 // Indiquer les infos absolues
 
 {
-  "name"                : "La Quincaillerie Générale",
+  "name" : "La Quincaillerie Générale",
   
-  "alias"               : "",
+  "alias" : "",
   
   "address" : [
     { 
@@ -21,7 +21,7 @@
     }
   ],
   
-  "facebook_id"         : 109063132469241
+  "facebook_id" : 109063132469241
   
 }
   
