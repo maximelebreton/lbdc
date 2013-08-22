@@ -1,0 +1,29 @@
+
+// Indiquer les infos absolues
+
+{
+  "name"                : "La Quincaillerie Générale", //string
+  
+  "alias"               : "", //string
+  
+  "address" : [
+    { 
+      "street_address" : "15 rue Paul Bert",
+      "postal_code" : 35000,
+      "city" : "Rennes",
+      "state" : "",
+      "country" : "France",
+      "gps_coordinates" : [
+        {
+          "lat"   : "",
+          "long"  : ""
+        }
+      ]
+    }
+  ],
+  
+  "facebook_id"         : 109063132469241 //number
+  
+}
+  
+  https://graph.facebook.com/109063132469241/picture?type=large
