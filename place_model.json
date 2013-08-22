@@ -25,4 +25,5 @@
   
 }
   
+// le facebook id permet de récupérer ensuite la photo de profil via la graph api, exemple :
 // https://graph.facebook.com/109063132469241/picture?type=large
