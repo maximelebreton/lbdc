@@ -12,12 +12,7 @@
       "city" : "Rennes",
       "state" : "",
       "country" : "France",
-      "gps_coordinates" : [
-        {
-          "lat"   : "",
-          "long"  : ""
-        }
-      ]
+      "coordinates" : [0.0, 0.0] // lat, long
     }
   ],
   
