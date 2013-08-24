@@ -5,27 +5,29 @@
   
   "alias" : "",
   
-  "address" : [
-    { 
+  "address" : { 
       "street_address" : "15 rue Paul Bert",
       "postal_code" : 35000,
       "city" : "Rennes",
       "state" : "",
       "country" : "France",
       "coordinates" : [0.0, 0.0] // lat, long
-    }
-  ],
+  },
   
-  "transports_en_commun" : [
-    {
-      "bus" : ["ligne 5", "ligne 8"],
-      "metro" : "arrêt ponchaillou"
-    }
-  ]
+  // le facebook id permet de récupérer ensuite la photo de profil via la graph api, exemple :
+  // https://graph.facebook.com/109063132469241/picture?type=large
+  "facebook_id" : 109063132469241,
   
-  "facebook_id" : 109063132469241
+  // pas très satisfaisant, à voir...
+  "transports_en_commun" : {
+      "bus" : {
+        "Ligne 5" : "Paul Bert",
+        "Ligne 8" : "République"
+      },
+      "metro" : "Pontchaillou",
+      "tramway" : ""
+  }
   
 }
   
-// le facebook id permet de récupérer ensuite la photo de profil via la graph api, exemple :
-// https://graph.facebook.com/109063132469241/picture?type=large
+
