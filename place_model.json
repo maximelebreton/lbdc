@@ -16,6 +16,13 @@
     }
   ],
   
+  "transports_en_commun" : [
+    {
+      "bus" : ["ligne 5", "ligne 8"],
+      "metro" : "arrêt ponchaillou"
+    }
+  ]
+  
   "facebook_id" : 109063132469241
   
 }
