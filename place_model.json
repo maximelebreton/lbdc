@@ -18,6 +18,9 @@
   // https://graph.facebook.com/109063132469241/picture?type=large
   "facebook_id" : 109063132469241,
   
+  // accessibilité fauteuil roulant ? à voir si c'est important pour les personnes concernées
+  "accessibility" : true,
+  
   // pas très satisfaisant, à voir...
   "transports_en_commun" : {
       "bus" : {
