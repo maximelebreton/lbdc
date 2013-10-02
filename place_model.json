@@ -19,17 +19,7 @@
   "facebook_id" : 109063132469241,
   
   // accessibilité fauteuil roulant ? à voir si c'est important pour les personnes concernées
-  "accessibility" : true,
-  
-  // pas très satisfaisant, à voir...
-  "transports_en_commun" : {
-      "bus" : {
-        "Ligne 5" : "Paul Bert",
-        "Ligne 8" : "République"
-      },
-      "metro" : "Pontchaillou",
-      "tramway" : ""
-  }
+  "accessibility" : true
   
 }
   
